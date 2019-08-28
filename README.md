@@ -15,11 +15,12 @@ vue、vuex、webpack、css、vue-router、各种小程序、
 > #### 面试系列
 
 > #### Javascript
-
+  - 1.[Promise](https://github.com/nieyulin112/Blog/blob/master/JS/promise.md)
+  - 2.async await
 > #### Webpack
 
 > #### Vue
 
 > #### Vuex
-  - [vuex的基本原理](https://github.com/nieyulin112/Blog/blob/master/JS/vuex.md)
+  - 1.[vuex的基本原理](https://github.com/nieyulin112/Blog/blob/master/JS/vuex.md)
 > #### vue-router
