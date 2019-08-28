@@ -26,3 +26,5 @@ vue、vuex、webpack、css、vue-router、各种小程序、
 > #### vue-router
 
 > #### css
+
+> #### axios
