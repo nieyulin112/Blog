@@ -13,7 +13,8 @@ vue、vuex、webpack、css、vue-router、各种小程序、
 
 > #### 面试系列
   - [面试题1](https://github.com/nieyulin112/Blog/blob/master/interviews/index.md)
-
+  
+  - [面试题2](https://github.com/yygmind/blog/issues/43)
 > #### Javascript
   - [Promise](https://github.com/nieyulin112/Blog/blob/master/JS/promise.md)
   - async await
