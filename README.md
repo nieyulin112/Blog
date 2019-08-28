@@ -21,5 +21,5 @@ vue、vuex、webpack、css、vue-router、各种小程序、
 > #### Vue
 
 > #### Vuex
-  [vuex的基本原理](https://github.com/nieyulin112/Blog/blob/master/JS/vuex.md)
+  - [vuex的基本原理](https://github.com/nieyulin112/Blog/blob/master/JS/vuex.md)
 > #### vue-router
