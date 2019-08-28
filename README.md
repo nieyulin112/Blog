@@ -28,3 +28,6 @@ vue、vuex、webpack、css、vue-router、各种小程序、
 > #### css
 
 > #### axios
+
+> #### 工具函数
+  - [工具函数](https://github.com/nieyulin112/Blog/blob/master/utils/utils.md)
