@@ -40,6 +40,6 @@ vue、vuex、webpack、css、vue-router、各种小程序、
   - [A伙伴](https://www.ahuoban.com/home/)
 
   
-  (https://upload-images.jianshu.io/upload_images/4678292-70c729e6d5687b85.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+  ![A伙伴小程序.jpeg](https://upload-images.jianshu.io/upload_images/4678292-70c729e6d5687b85.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-  (https://upload-images.jianshu.io/upload_images/4678292-a254887d40b5a44c.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+  ![A伙伴app.jpeg](https://upload-images.jianshu.io/upload_images/4678292-a254887d40b5a44c.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
